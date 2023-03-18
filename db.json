@@ -1,0 +1,30 @@
+{
+  "boards": [
+    { "id": 1, "title": "sprint 1", "author": "ranggo" },
+    { "id": 2, "title": "sprint 2", "author": "mas boy" }
+  ],
+  "goods": [
+    { "id": 1, "text": "some comment", "postId": 1 },
+    { "id": 2, "text": "more comment", "postId": 1 },
+    { "id": 3, "text": "more comment", "postId": 1 },
+    { "id": 4, "text": "more comment", "postId": 2 },
+    { "id": 5, "text": "more comment", "postId": 2 },
+    { "id": 6, "text": "more comment", "postId": 2 }
+  ],
+  "needImprove": [
+    { "id": 1, "text": "some comment", "postId": 1 },
+    { "id": 2, "text": "more comment", "postId": 1 },
+    { "id": 3, "text": "more comment", "postId": 1 },
+    { "id": 4, "text": "more comment", "postId": 2 },
+    { "id": 5, "text": "more comment", "postId": 2 },
+    { "id": 6, "text": "more comment", "postId": 2 }
+  ],
+  "questions": [
+    { "id": 1, "text": "some comment", "postId": 1 },
+    { "id": 2, "text": "more comment", "postId": 1 },
+    { "id": 3, "text": "more comment", "postId": 1 },
+    { "id": 4, "text": "more comment", "postId": 2 },
+    { "id": 5, "text": "more comment", "postId": 2 },
+    { "id": 6, "text": "more comment", "postId": 2 }
+  ]
+}
